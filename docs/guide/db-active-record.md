@@ -37,7 +37,7 @@ Below is the list of databases that are currently supported by Yii Active Record
 * Oracle: via [[yii\db\ActiveRecord]]
 * CUBRID 9.3 or later: via [[yii\db\ActiveRecord]] (Note that due to a [bug](http://jira.cubrid.org/browse/APIS-658) in
   the cubrid PDO extension, quoting of values will not work, so you need CUBRID 9.3 as the client as well as the server)
-* Sphnix: via [[yii\sphinx\ActiveRecord]], requires the `yii2-sphinx` extension
+* Sphinx: via [[yii\sphinx\ActiveRecord]], requires the `yii2-sphinx` extension
 * ElasticSearch: via [[yii\elasticsearch\ActiveRecord]], requires the `yii2-elasticsearch` extension
 * Redis 2.6.12 or later: via [[yii\redis\ActiveRecord]], requires the `yii2-redis` extension
 * MongoDB 1.3.0 or later: via [[yii\mongodb\ActiveRecord]], requires the `yii2-mongodb` extension
